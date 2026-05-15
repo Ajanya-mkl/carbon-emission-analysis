@@ -58,7 +58,7 @@ The key objectives of this project are:
 
 # Architecture Diagram
 
-![Architecture](screenshots/Carbon Emission Sustainability Intelligence Architecture.png)
+![Architecture](screenshots/Architecture.png)
 
 ---
 
